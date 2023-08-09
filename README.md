@@ -15,4 +15,4 @@
 
 **Активным** считается пользователь, за все время решивший больше 10 задач правильно в любых дисциплинах.\
 **Активным по математике** считается пользователь, за все время решивший 2 или больше задач правильно по математике.
-[!Метрики](https://github.com/laptev512/optimization_of_the_funnel/blob/main/sql_metrics.JPG?raw=true)
+![Метрики](https://github.com/laptev512/optimization_of_the_funnel/blob/main/sql_metrics.JPG?raw=true)
